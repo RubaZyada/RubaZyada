@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi 👋! I'm Ruba Zyada
 
-<!--
-**RubaZyada/RubaZyada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Flutter Developer from Palestine 🇵🇸
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+I'm a Computer Systems Engineering graduate passionate about mobile app development using Flutter.
+I love building real-world applications and continuously improving my skills.
+
+---
+
+## 🔥 Current Focus
+
+* 📱 Building mobile apps with Flutter
+* 🧠 Learning clean architecture & best practices
+* 🤝 Looking for internship or training opportunities
+
+---
+
+## 🛠️ Skills
+
+* Flutter / Dart
+* Firebase
+* REST APIs
+* Git & GitHub
+
+---
+
+
+
+
