@@ -6,8 +6,9 @@
 
 ## 👩‍💻 About Me
 
-I'm a Computer Systems Engineering graduate passionate about mobile app development using Flutter.
-I love building real-world applications and continuously improving my skills.
+Flutter Developer passionate about building modern mobile applications. Currently focusing on integrating AI into
+mobile apps to create smart and interactive user experiences. Strong self-learner with a commitment to
+improving skills and building real-world projects.
 
 ---
 
@@ -21,10 +22,21 @@ I love building real-world applications and continuously improving my skills.
 
 ## 🛠️ Skills
 
-* Flutter / Dart
-* Firebase
-* REST APIs
-* Git & GitHub
+Flutter (Dart)
+StateManagment (getx, bloc ,provider)
+Firebase Integration
+Responsive UI
+CleanArchitecture
+Dependency Injection
+Problem Solving
+JSON Parsing
+Retrofit
+API Integration
+SQlite
+Shared Preferences
+AI Integration (OpenAI APIs)
+Prompt Engineering
+Git & GitHub
 
 ---
 
