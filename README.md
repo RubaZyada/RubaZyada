@@ -23,15 +23,25 @@ improving skills and building real-world projects.
 ## 🛠️ Skills
 
 *Flutter (Dart)
+
 *StateManagment (getx, bloc ,provider)
+
 *Firebase Integration
+
 *Responsive UI
+
 *CleanArchitecture
+
 *Dependency Injection
+
 *Problem Solving
+
 *JSON Parsing
+
 *Retrofit
+
 *API Integration
+
 *SQlite
 *Shared Preferences
 *AI Integration (OpenAI APIs)
