@@ -113,6 +113,10 @@ I'm actively expanding my skills in these areas:
 - **Highlights:** Pure Dart logic, game state handling, clean structure
 
 ---
+### 🆘 [Aid Points Gaza](https://github.com/RubaZyada/AidPointsGaza.git)
+> A Flutter app that helps users in Gaza find aid distribution points through a clean interface, search functionality, and real API data integration.
+- **Tech:** Flutter · Dart · REST API · Dio
+- **Highlights:** Real API integration, search/filtering, clean UI, distribution points listing, humanitarian use case in Gaza
 
 ## 📊 GitHub Stats
 
@@ -137,9 +141,9 @@ I'm actively looking for **internship and training opportunities** in mobile dev
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Robazyada)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roba-zyada)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_LINK_HERE)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](robazyada167@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RubaZyada)
 
 </div>
