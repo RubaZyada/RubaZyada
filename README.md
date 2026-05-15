@@ -71,27 +71,45 @@ I'm actively expanding my skills in these areas:
 
 ## 🚀 Featured Projects
 
-> *Projects coming soon — currently building and will be pinned here!*
+### ♻️ [Eco Cycle](https://github.com/malakshalayel/eco_cycle)
+> A waste recycling app that helps users identify and sort recyclable materials — built with a focus on clean, maintainable code.
+- **Tech:** Flutter · Firebase · GetX
+- **Highlights:** Clean Code principles, GetX state management, Firebase backend, real-world environmental use case
 
-<!--
-Replace each card below with your actual projects when ready.
+---
 
-### 🛍️ [Project Name](https://github.com/RubaZyada/project-name)
-> Short one-liner about what it does and why it matters.
-- **Tech:** Flutter, Firebase, BLoC, REST API
-- **Highlights:** Clean Architecture, authentication flow, real-time data
+### 🛒 [Freelancer Store](https://github.com/RubaZyada/freelanser)
+> A full-featured e-commerce app with Firebase authentication and smooth state management.
+- **Tech:** Flutter · Firebase · BLoC
+- **Highlights:** User authentication flow, BLoC state management, structured codebase
 
-### 💬 [Project Name](https://github.com/RubaZyada/project-name)
-> Short description.
-- **Tech:** Flutter, Gemini API, Provider
-- **Highlights:** AI-powered features, custom UI components
--->
+---
 
-| # | Project | Description | Stack |
-|---|---------|-------------|-------|
-| 1 | 🔜 Coming Soon | Mobile app project | Flutter · Firebase |
-| 2 | 🔜 Coming Soon | API integration project | Flutter · REST API · BLoC |
-| 3 | 🔜 Coming Soon | AI-powered app | Flutter · Gemini · Clean Arch |
+### 📋 [Dalel App](https://github.com/RubaZyada/dalel)
+> A comprehensive Flutter app covering core fundamentals — authentication, navigation, and clean architecture patterns.
+- **Tech:** Flutter · Firebase · Clean Architecture
+- **Highlights:** Clean Code, Firebase Auth, solid Flutter fundamentals, login/logout flow
+
+---
+
+### 🗒️ [Note App](https://github.com/RubaZyada/noteApp)
+> A notes app with full Firebase authentication and persistent cloud-stored notes.
+- **Tech:** Flutter · Firebase Auth · Firestore
+- **Highlights:** Secure login/logout, real-time note saving, clean user flow
+
+---
+
+### 🛍️ [REST API Store](https://github.com/RubaZyada/rest_api_getx)
+> A product store app that fetches live data from a REST API with proper error handling.
+- **Tech:** Flutter · REST API · GetX
+- **Highlights:** API integration, error handling, GetX state management
+
+---
+
+### 🎮 [Tic-Tac-Toe](https://github.com/RubaZyada/tic-tac-toe-game)
+> A classic XO game built in pure Dart — a clean logic exercise showcasing strong language fundamentals.
+- **Tech:** Dart
+- **Highlights:** Pure Dart logic, game state handling, clean structure
 
 ---
 
@@ -118,7 +136,7 @@ I'm actively looking for **internship and training opportunities** in mobile dev
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Robazyada)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_LINK_HERE)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RubaZyada)
