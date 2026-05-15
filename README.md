@@ -1,45 +1,137 @@
-# Hi 👋! I'm Ruba Zyada
+<div align="center">
 
-### 🚀 Flutter Developer from Palestine 🇵🇸
+<!-- BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:6366f1&height=200&section=header&text=Ruba%20Zyada&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Flutter%20Developer%20%E2%80%A2%20Mobile%20Enthusiast%20%E2%80%A2%20Palestine%20🇵🇸&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+
+<!-- TYPING ANIMATION -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Flutter+Developer+%F0%9F%92%99;Building+beautiful+mobile+experiences;Clean+Architecture+%7C+Firebase+%7C+AI;Open+to+internships+%26+opportunities)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
 ## 👩‍💻 About Me
 
-Flutter Developer passionate about building modern mobile applications. Currently focusing on integrating AI into
-mobile apps to create smart and interactive user experiences. Strong self-learner with a commitment to
-improving skills and building real-world projects.
+Hi, I'm **Ruba** — a self-taught Flutter developer from Palestine 🇵🇸, passionate about crafting clean, performant mobile applications that people actually enjoy using.
+
+I started my journey driven by curiosity and a love for building things. Since then, I've been diving deep into Flutter's ecosystem — from state management patterns to integrating AI capabilities in mobile apps.
+
+```dart
+class RubaZyada extends FlutterDeveloper {
+  final String location     = "Palestine 🇵🇸";
+  final String focus        = "Mobile Development";
+  final List<String> loves  = ["Clean Code", "Great UX", "Continuous Learning"];
+  final bool openToWork     = true;
+
+  @override
+  String get currentGoal => "Landing my first internship & building impactful apps";
+}
+```
 
 ---
 
-## 🔥 Current Focus
+## 🛠️ Tech Stack & Skills
 
-* 📱 Building mobile apps with Flutter
-* 🧠 Learning clean architecture & best practices
-* 🤝 Looking for internship or training opportunities
+### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
----
+### 🔥 Backend & Services
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## 🛠️ Skills
+### 🏗️ Architecture & State Management
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-6366F1?style=for-the-badge&logo=stackshare&logoColor=white)
+![BLoC](https://img.shields.io/badge/BLoC-06B6D4?style=for-the-badge&logo=flutter&logoColor=white)
+![Provider](https://img.shields.io/badge/Provider-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-00BFFF?style=for-the-badge&logo=flutter&logoColor=white)
 
-Flutter (Dart)
-/StateManagment (getx, bloc ,provider)
-/Firebase Integration
-/Responsive UI
-/CleanArchitecture
-/Dependency Injection
-/Problem Solving
-/JSON Parsin
-/Retrofit
-/API Integration
-/SQlite
-/Shared Preferences
-/AI Integration (OpenAI APIs)
-/Prompt Engineering
-/Git & GitHub
+### 🧰 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
+## 🎯 Current Learning Focus
 
+I'm actively expanding my skills in these areas:
 
+| Area | Focus |
+|------|-------|
+| 🤖 AI Integration | Embedding LLMs & AI features in Flutter apps |
+| 🧱 Clean Architecture | Scalable, testable, maintainable codebases |
+| 🔌 API Integration | RESTful APIs, Dio, error handling |
+| 🔒 Firebase | Auth, Firestore, Cloud Functions, Notifications |
+| 🧪 Testing | Unit, widget, and integration testing in Flutter |
+
+---
+
+## 🚀 Featured Projects
+
+> *Projects coming soon — currently building and will be pinned here!*
+
+<!--
+Replace each card below with your actual projects when ready.
+
+### 🛍️ [Project Name](https://github.com/RubaZyada/project-name)
+> Short one-liner about what it does and why it matters.
+- **Tech:** Flutter, Firebase, BLoC, REST API
+- **Highlights:** Clean Architecture, authentication flow, real-time data
+
+### 💬 [Project Name](https://github.com/RubaZyada/project-name)
+> Short description.
+- **Tech:** Flutter, Gemini API, Provider
+- **Highlights:** AI-powered features, custom UI components
+-->
+
+| # | Project | Description | Stack |
+|---|---------|-------------|-------|
+| 1 | 🔜 Coming Soon | Mobile app project | Flutter · Firebase |
+| 2 | 🔜 Coming Soon | API integration project | Flutter · REST API · BLoC |
+| 3 | 🔜 Coming Soon | AI-powered app | Flutter · Gemini · Clean Arch |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=RubaZyada&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06b6d4&icon_color=6366f1&text_color=c9d1d9&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubaZyada&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06b6d4&text_color=c9d1d9&langs_count=6" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=RubaZyada&theme=tokyonight&hide_border=true&background=0D1117&ring=06b6d4&fire=6366f1&currStreakLabel=06b6d4)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+I'm actively looking for **internship and training opportunities** in mobile development. I'd love to connect with developers, mentors, and teams building meaningful products.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_HERE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_LINK_HERE)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RubaZyada)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Every expert was once a beginner. The only way to grow is to build, break, and build again."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:06b6d4&height=100&section=footer" width="100%"/>
+
+</div>
 
