@@ -45,7 +45,7 @@ class RubaZyada extends FlutterDeveloper {
 ![BLoC](https://img.shields.io/badge/BLoC-06B6D4?style=for-the-badge&logo=flutter&logoColor=white)
 ![Provider](https://img.shields.io/badge/Provider-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Riverpod](https://img.shields.io/badge/Riverpod-00BFFF?style=for-the-badge&logo=flutter&logoColor=white)
-![getx](https://img.shields.io/badge/Getx-013512?style=for-the-badge&logo=dart&logoColor=white)
+![getx](https://img.shields.io/badge/Getx-3DDC84?style=for-the-badge&logo=dart&logoColor=white)
 
 ### 🧰 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
